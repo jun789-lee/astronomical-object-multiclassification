@@ -13,3 +13,5 @@ __pycache__/
 
 # Mac이나 기타 시스템 파일 무시
 .DS_Storeg
+
+build/feature/polyfeature.csv
